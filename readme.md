@@ -13,7 +13,7 @@
 [Статусы файлов в Git](#status)
 
 
-[Для чего нужен файл readme.md?](#readme)
+[Для чего нужен файл readme.md?](#readme")
 
 
 [Основные команды](#commands)
